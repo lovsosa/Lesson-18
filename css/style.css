@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.pig__coins {
+  display: flex;
+  flex-direction: column;
+}
+.total__coins {
+  background-color: #5CDB95 ;
+  padding: 5px 5px 5px 30px;
+}
+.total__title {
+  color: #fff;
+  text-transform: uppercase;
+}
+/* .coin {
+} */
+.coins__item {
+  margin-top: 5px;
+  background-color: #05386B ;
+  padding: 5px 5px 5px 30px;
+  color: #fff;
+}
+/* .money {
+} */
+.btn__coin {
+  margin: 10px;
+  padding: 10px;
+  background-color: #D79922 ;
+  border: none;
+}
